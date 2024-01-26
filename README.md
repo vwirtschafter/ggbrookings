@@ -31,17 +31,17 @@ Sys.setenv(TZ = 'UTC')
 
 ## Fonts
 
-**Roboto** is Brooking’s main font. You will need to install it by
+**Inter** is Brooking’s main font. You will need to install it by
 visiting [Google
-fonts](https://fonts.google.com/specimen/Roboto?query=Roboto) and
+fonts](https://fonts.google.com/specimen/Inter?query=Inter) and
 clicking “Download family”.
 
 Once you’ve done this, unzip and open each of the .ttf files and click
-install. Finaly, run the code chunk below to ensure Roboto is imported
+install. Finally, run the code chunk below to ensure Inter is imported
 and registered:
 
 ``` r
-import_roboto()
+import_inter()
 ```
 
 If you run into any problems while installing fonts on a Windows
